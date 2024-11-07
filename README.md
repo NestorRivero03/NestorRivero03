@@ -2,6 +2,7 @@
 <h3 align="center">Senior Full Stack Web | Mobile App Developer</h3>
 ⚡ I’m a senior web and mobile app developer with extensive experience in creating high-quality, scalable applications across various platforms. Skilled in both frontend and backend development, I specialize in delivering user-friendly, robust solutions that drive results. Passionate about innovation and efficiency, I’m committed to continuous learning and sharing knowledge to elevate team performance.
 
+
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <tbody>
@@ -252,8 +253,7 @@
             </td>
         </tr>
     </tbody>
-</table>
-    
+</table> 
 <h2>🌱 Skills 🌱</h2>
 <br /><br />
 ➡MODERN WEB DEVELOPMENT<br />
