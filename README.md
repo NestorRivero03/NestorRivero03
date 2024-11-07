@@ -49,7 +49,6 @@
                         alt="git" width="60" height="60" />
                 </a>
             </td>
-
             <td align="center" width="70" height="70">
                 <a href="https://www.java.com" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/java_aladdinGene.gif"
