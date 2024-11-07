@@ -190,3 +190,24 @@
         </tr>
     </tbody>
 </table>
+
+<h3 align="center">Skills</h3>
+
+➡MODERN WEB DEVELOPMENT<br />
+✅ HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5<br />
+✅ ReactJS/Redux/Saga/Thunk/NextJS/Gatsby + Material UI<br />
+✅ VueJS/Vuex/Vuetify/NuxtJS/Quasar<br />
+✅ AngularJS<br />
+✅ D3JS, jQuery, jQuery UI<br />
+✅ PHP, Laravel, CodeIgniter,<br />
+✅ NodeJS, ExpressJS, [Socket.io](http://Socket.io), KoaJS<br />
+✅ Java, JavaSpring, SpringBoot<br />
+✅ Python, Django, Flask<br />
+✅ MySQL, Postgres, MongoDB<br />
+✅ Firebase, AWS Lambda, AWS S3, Google Map api (cloud based) .<br />
+✅ AWS, Azure, DigitalOcean, Godaddy, Netlify, Heroku (server option) <br />
+✅ Payment gateway integration<br />
+✅ Web scraping using python&php<br />
+➡MODERN APP DEVELOPMENT<br />
+✅ Android ✓Java ✓Kotlin<br />
+✅ Hybrid ✓React Native ✓ Flutter ✓ ionic<br />
