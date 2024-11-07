@@ -200,7 +200,7 @@
 ✅ AngularJS<br />
 ✅ D3JS, jQuery, jQuery UI<br />
 ✅ PHP, Laravel, CodeIgniter,<br />
-✅ NodeJS, ExpressJS, [Socket.io](http://Socket.io), KoaJS<br />
+✅ NodeJS, ExpressJS, Socket.io, KoaJS<br />
 ✅ Java, JavaSpring, SpringBoot<br />
 ✅ Python, Django, Flask<br />
 ✅ MySQL, Postgres, MongoDB<br />
