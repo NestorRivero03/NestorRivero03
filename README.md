@@ -191,7 +191,7 @@
     </tbody>
 </table>
 
-<h3 align="center">Skills</h3>
+<h3>Skills</h3>
 
 ➡MODERN WEB DEVELOPMENT<br />
 ✅ HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5<br />
