@@ -204,6 +204,8 @@
                         width="60" height="60" alt="vue"">
                 </a>
             </td>
+        </tr>
+        <tr>
             <td align="center" width="70" height="70">
                 <a href="#nuxt">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/nuxt_aladdinGene.avif"
@@ -216,8 +218,6 @@
                         width="60" height="60" alt="angular"">
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center" width="70" height="70">
                 <a href="#next">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/next_aladdinGene.png"
