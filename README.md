@@ -4,67 +4,68 @@
 
 <h3>Languages and Tools:</h3>
 
+<h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <tbody>
         <tr>
             <td align="center" width="70" height="70">
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="60" height="60" style="max-width: 100%; />
+                        alt="html5" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/css_aladdinGene.png"
-                        alt="css3" width="60" height="60" style="max-width: 100%; />
+                        alt="css3" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/bootstrap_aladdinGene.png"
-                        alt="bootstrap" width="60" height="60" style="max-width: 100%; />
+                        alt="bootstrap" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60"
-                        height="60" style="max-width: 100%; />
+                        height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                        alt="express" width="60" height="60" style="max-width: 100%; />
+                        alt="express" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/firebase_aladdinGene.webp"
-                        alt="firebase" width="60" height="60" style="max-width: 100%; />
+                        alt="firebase" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/git_aladdinGene.gif"
-                        alt="git" width="60" height="60" style="max-width: 100%; />
+                        alt="git" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.java.com" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/java_aladdinGene.gif"
-                        alt="java" width="60" height="60" style="max-width: 100%; />
+                        alt="java" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/javascript_aladdinGene.gif"
-                        alt="javascript" width="60" height="60" style="max-width: 100%; />
+                        alt="javascript" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                        alt="linux" width="60" height="60" style="max-width: 100%; />
+                        alt="linux" width="60" height="60" />
                 </a>
             </td>
         </tr>
@@ -72,61 +73,59 @@
             <td align="center" width="70" height="70">
                 <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-                        alt="materialize" width="60" height="60" style="max-width: 100%; />
+                        alt="materialize" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="60" height="60"  style="max-width: 100%;/>
+                        alt="mongodb" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                        alt="mysql" width="60" height="60"  style="max-width: 100%;/>
+                        alt="mysql" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60" style="max-width: 100%; />
+                    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="60" height="60" style="max-width: 100%; />
+                        alt="nodejs" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.php.net" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/php_aladdinGene.gif"
-                        alt="php" width="60" height="60" style="max-width: 100%; />
+                        alt="php" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"
-                         style="max-width: 100%;/>
+                    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.python.org" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/python_aladdinGene.gif"
-                        alt="python" width="60" height="60"  style="max-width: 100%;/>
+                        alt="python" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/react_aladdinGene.gif"
-                        alt="react" width="60" height="60" style="max-width: 100%; />
+                        alt="react" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flask_aladdinGene.png"
-                         width="60" height="60" style="max-width: 100%;/>
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flask_aladdinGene.png"
+                        alt="flask" width="60" height="60" />
                 </a>
             </td>
         </tr>
@@ -134,19 +133,19 @@
             <td align="center" width="70" height="70">
                 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                        alt="redux" width="60" height="60" style="max-width: 100%; />
+                        alt="redux" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
-                        width="60" height="60" style="max-width: 100%; />
+                        width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                        alt="typescript" width="60" height="60" style="max-width: 100%; />
+                        alt="typescript" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
@@ -256,6 +255,7 @@
         </tr>
     </tbody>
 </table>
+
 <h2>🌱 Skills 🌱</h2>
 ➡MODERN WEB DEVELOPMENT<br />
 ✅ HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5<br />
