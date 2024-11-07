@@ -2,7 +2,6 @@
 <h3 align="center">Senior Full Stack Web | Mobile App Developer</h3>
 ⚡ I’m a senior web and mobile app developer with extensive experience in creating high-quality, scalable applications across various platforms. Skilled in both frontend and backend development, I specialize in delivering user-friendly, robust solutions that drive results. Passionate about innovation and efficiency, I’m committed to continuous learning and sharing knowledge to elevate team performance.
 
-
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <tbody>
@@ -67,14 +66,14 @@
                         alt="linux" width="40" height="40" />
                 </a>
             </td>
+        </tr>
+        <tr>
             <td align="center" width="50" height="50">
                 <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
                         alt="materialize" width="40" height="40" />
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center" width="50" height="50">
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -126,14 +125,14 @@
                     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
                 </a>
             </td>
+        </tr>
+        <tr>
             <td align="center" width="50" height="50">
                 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                         alt="redux" width="40" height="40" />
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center" width="50" height="50">
                 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
