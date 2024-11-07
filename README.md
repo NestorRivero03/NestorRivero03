@@ -2,28 +2,37 @@
 <h3 align="center">Senior Full Stack Web | Mobile App Developer</h3>
 ⚡ I’m a senior web and mobile app developer with extensive experience in creating high-quality, scalable applications across various platforms. Skilled in both frontend and backend development, I specialize in delivering user-friendly, robust solutions that drive results. Passionate about innovation and efficiency, I’m committed to continuous learning and sharing knowledge to elevate team performance.
 
+
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <tbody>
         <tr>
+            <td align="center" width="70" height="70">
+                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                        alt="html5" width="60" height="60" />
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/css_aladdinGene.png"
+                        alt="css3" width="60" height="60" />
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/bootstrap_aladdinGene.png"
+                        alt="bootstrap" width="60" height="60" />
+                </a>
+            </td>
             <td align="center" width="70" height="70">
                 <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60"
                         height="60" />
                 </a>
             </td>
-            <td align="center" width="70" height="70">
-                <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                        alt="bootstrap" width="60" height="60" />
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="60" height="60" />
-                </a>
-            </td>
+
+
             <td align="center" width="70" height="70">
                 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -32,25 +41,20 @@
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60"
-                        height="60" />
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/firebase_aladdinGene.webp"
+                        alt="firebase" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"
-                        height="60" />
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/git_aladdinGene.gif"
+                        alt="git" width="60" height="60" />
                 </a>
             </td>
-            <td align="center" width="70" height="70">
-                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="60" height="60" />
-                </a>
-            </td>
+
             <td align="center" width="70" height="70">
                 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/java_aladdinGene.gif"
                         alt="java" width="60" height="60" />
                 </a>
             </td>
@@ -99,7 +103,7 @@
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.php.net" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/php_aladdinGene.gif"
                         alt="php" width="60" height="60" />
                 </a>
             </td>
@@ -110,13 +114,13 @@
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/python_aladdinGene.gif"
                         alt="python" width="60" height="60" />
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/react_aladdinGene.gif"
                         alt="react" width="60" height="60" />
                 </a>
             </td>
@@ -147,49 +151,111 @@
             </td>
             <td align="center" width="70" height="70">
                 <a href="#kotlin">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIu1v7X-vz1wEe__DRzXxIM8QCqLrhK7zuhjpZ2mYhETmA_KEDABNQeqegK-Yx68eLCg&usqp=CAU"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/Kotlin_aladdinGene.jfif"
                         width="60" alt="kotlin" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="#android">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLuX1jXWtPcY4TJ6-vcfM0mBlM3iYo8kIEEQjQ2mW1xIG1jFjIVZEbBDMz4zZAk64awE&usqp=CAU"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/android_aladdinGene.gif"
                         width="60" alt="android" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="#kendo">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzNThJFWcOq0lHPNDB48DNxKGNiC0JhTdQICN6kUnd4ISRE0USRYhQv6Siqwn4_KvYQs&usqp=CAU"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/kendo_aladdinGene.webp"
                         width="60" alt="kendo" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="#django">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM5A_mkCGlC7KJkCcKidk1O6ohaLWfCPiCjr3Wnkac-SiRzeHMxcByB93nwUH4JJq7E8&usqp=CAU"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/django_aladdinGene.png"
                         width="60" alt="django" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="#laravel">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPTViRjJVarWMNfNKWBJcYDnQXuZtmGn94WX_q5CPH5OsinZln3fWkSAwvoXq4zEriXs&usqp=CAU"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/laravel_aladdinGene.jpeg"
                         width="60" alt="laravel" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="#c#">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2eOSMtT8zCyXYSVRDPl8nd6u4tFC1-M1J-IW5VTsLcKdrN1TR6tkPYOMuoA4Jr1EELo&usqp=CAU"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/csharp_aladdinGene.png"
                         width="60" alt="c#" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="70" height="70">
                 <a href="#C++">
-                    <img src="https://user-images.githubusercontent.com/86986628/166917507-ef0f9853-8cf3-4c2c-8144-7ca820a6f81a.svg"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/c++_aladdinGene.png"
                         width="60" alt="flutter" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center" width="70" height="70">
+                <a href="#next">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/next_aladdinGene.png"
+                        width="60" alt="next" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#vue">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/vue1_aladdinGene.gif"
+                        width="60" alt="vue" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#nuxt">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/nuxt_aladdinGene.avif"
+                        width="60" alt="nuxt" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#angular">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/angular_aladdinGene.gif"
+                        width="60" alt="angular" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#next">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/next_aladdinGene.png"
+                        width="60" alt="next" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#flutter">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flutter_aladdinGene.gif"
+                        width="60" alt="flutter" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#svg">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/svg_aladdinGene.gif"
+                        width="60" alt="svg" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#codeigniter">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/codeigniter_aladdinGene.png"
+                        width="60" alt="codeigniter" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#aws">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/aws_aladdinGene.gif"
+                        width="60" alt="aws" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="center" width="70" height="70">
+                <a href="#typescript">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/ts_aladdinGene.gif"
+                        width="60" alt="typescript" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
     </tbody>
-</table
+</table>
     
 <h2>🌱 Skills 🌱</h2>
 <br /><br />
