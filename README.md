@@ -255,7 +255,6 @@
     </tbody>
 </table>
 <h2>🌱 Skills 🌱</h2>
-<br /><br />
 ➡MODERN WEB DEVELOPMENT<br />
 ✅ HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5<br />
 ✅ ReactJS/Redux/Saga/Thunk/NextJS/Gatsby + Material UI<br />
