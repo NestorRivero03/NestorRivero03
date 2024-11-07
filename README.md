@@ -30,8 +30,6 @@
                         height="60" />
                 </a>
             </td>
-
-
             <td align="center" width="70" height="70">
                 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
