@@ -3,8 +3,6 @@
 ⚡ I’m a senior web and mobile app developer with extensive experience in creating high-quality, scalable applications across various platforms. Skilled in both frontend and backend development, I specialize in delivering user-friendly, robust solutions that drive results. Passionate about innovation and efficiency, I’m committed to continuous learning and sharing knowledge to elevate team performance.
 
 ###Languages and Tools:
-
-<h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <tbody>
         <tr>
@@ -123,8 +121,9 @@
                 </a>
             </td>
             <td align="center" width="70" height="70">
-                <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-                    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60" />
+                <a href="" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flask_aladdinGene.png" />
                 </a>
             </td>
         </tr>
@@ -192,9 +191,9 @@
         </tr>
         <tr>
             <td align="center" width="70" height="70">
-                <a href="#next">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/next_aladdinGene.png"
-                        width="60" alt="next" style="max-width: 100%;">
+                <a href="#apple">
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/apple_aladdinGene.gif"
+                        width="60" alt="apple" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="70" height="70">
