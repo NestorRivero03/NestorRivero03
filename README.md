@@ -57,7 +57,7 @@
             </td>
             <td align="center" width="70" height="70">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/javascript_aladdinGene.gif"
                         alt="javascript" width="60" height="60" />
                 </a>
             </td>
