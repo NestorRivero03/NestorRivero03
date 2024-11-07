@@ -190,68 +190,6 @@
                 </a>
             </td>
         </tr>
-        <tr>
-            <td align="center" width="70" height="70">
-                <a href="#next">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/next_aladdinGene.png"
-                        width="60" alt="next" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#vue">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/vue1_aladdinGene.gif"
-                        width="60" alt="vue" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#nuxt">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/nuxt_aladdinGene.avif"
-                        width="60" alt="nuxt" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#angular">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/angular_aladdinGene.gif"
-                        width="60" alt="angular" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#next">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/next_aladdinGene.png"
-                        width="60" alt="next" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#flutter">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flutter_aladdinGene.gif"
-                        width="60" alt="flutter" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#svg">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/svg_aladdinGene.gif"
-                        width="60" alt="svg" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#codeigniter">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/codeigniter_aladdinGene.png"
-                        width="60" alt="codeigniter" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#aws">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/aws_aladdinGene.gif"
-                        width="60" alt="aws" style="max-width: 100%;">
-                </a>
-            </td>
-            <td align="center" width="70" height="70">
-                <a href="#typescript">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/ts_aladdinGene.gif"
-                        width="60" alt="typescript" style="max-width: 100%;">
-                </a>
-            </td>
-        </tr>
     </tbody>
 </table> 
 <h2>🌱 Skills 🌱</h2>
